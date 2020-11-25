@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dialo_G_Mega_run_GODMOD.iml" filepath="$PROJECT_DIR$/.idea/modules/Dialo_G_Mega_run_GODMOD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dialo_G_Mega_run_GODMOD.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dialo_G_Mega_run_GODMOD.app.iml" />
+    </modules>
+  </component>
+</project>

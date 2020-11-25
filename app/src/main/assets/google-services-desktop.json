@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479084445653",
+    "firebase_url": "https://megarun-5759a.firebaseio.com",
+    "project_id": "megarun-5759a",
+    "storage_bucket": "megarun-5759a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479084445653:android:8f5cde8b22ddc762",
+        "android_client_info": {
+          "package_name": "lk.dialog.megarunlor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479084445653-6m541g2ht1gb78ldqqlp7unsinubt0l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHEh48JRPA4zrl1YFfuA-3odK5Hvvtas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

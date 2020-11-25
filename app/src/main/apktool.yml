@@ -1,0 +1,46 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Dialo_G_Mega_run_GODMOD.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- assets/google-services-desktop.json
+- assets/bin/Data/sharedassets1.resource
+- assets/bin/Data/sharedassets2.resource
+- assets/bin/Data/sharedassets4.resource
+- assets/Vuforia/VuforiaMars_Object_OT.dat
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  firebase-analytics.properties: '8'
+  firebase-common.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  stamp-cert-sha256: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.2-bb4a23-SNAPSHOT
+versionInfo:
+  versionCode: '20201117'
+  versionName: 1.2.12
