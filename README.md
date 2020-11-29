@@ -11,9 +11,9 @@
 - Support arm64-v8a & armeabi-v7a
 - Root detection bypass
 - Emulator detection bypass
-- <s>Unlimited Coins<s>
+- <s>Unlimited Coins</s>
 - Unlimited Magnet
-- <s>Unlimited Shield<s>
+- <s>Unlimited Shield</s>
 - Obstacles Hack (transparent)
 - Ability to run continuously without interruption
 - Single apk file
